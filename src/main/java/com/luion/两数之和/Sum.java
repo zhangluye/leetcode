@@ -1,9 +1,9 @@
-package com.luion.demo;
+package com.luion.两数之和;
 
 
 
 //普通二分法查找
-public class Demo01 {
+public class Sum {
    public int search(int []nums,int target){
       int left = 0;
       int right = nums.length-1;
